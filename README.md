@@ -1,2 +1,11 @@
 # nodets-canil
-Curso nodeJs B7Web
+Projeto feito no módulo do Curso nodeJs B7Web
+
+### Pré-requisitos globais:
+  `npm install -g nodemon typescript ts-node`
+
+### Instalação
+  `npm install`
+
+### Para rodar o projeto
+  `npm run start-dev`
